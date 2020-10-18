@@ -1,3 +1,3 @@
 # Heroku-Demo
 
-### This project is self learnt to deploy the machine learning model on the Heroku Platform
+### This project is part of my self learning to deploy the machine learning model on the Heroku Platform
